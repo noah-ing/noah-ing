@@ -1,4 +1,4 @@
-# Noah Ing
+# Noah Ingwers
 
 Builder of AI systems, autonomous agents, and the infrastructure that makes them reliable. I like clean architecture, sharp edges, and systems that explain themselves.
 
