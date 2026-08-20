@@ -1,19 +1,21 @@
 # Noah Ingwers
 
-Agent security, explicit authorization, reproducible evaluation, and reliable
-infrastructure.
+I build security and evaluation infrastructure for agentic systems—software
+that makes authority explicit, evidence reproducible, and failure modes legible.
 
-I also contribute to open-source security and infrastructure work.
+I contribute to open-source security and infrastructure work.
 
-## Current projects
+## Selected work
 
-| Project | Focus | Status |
-| --- | --- | --- |
-| **[GoldKey](https://github.com/noah-ing/goldkey)** | Policy-enforced agent execution with signed authorization receipts | Beta |
-| **[SENTINEL](https://github.com/noah-ing/SENTINEL)** | Prompt-injection evaluation and policy gating for tool-using agents | Research prototype |
-| **[EMAP](https://github.com/noah-ing/EMAP)** | Multi-agent LLM architecture experiments under hard token budgets | Research |
+- **[GoldKey Guard](https://github.com/noah-ing/goldkey)** — Policy-bound
+  authorization receipts and a local, fail-closed enforcement path for privileged
+  agent actions.
+- **[SENTINEL](https://github.com/noah-ing/SENTINEL)** — Reproducible
+  prompt-injection evaluation and explicit policy gating for tool-using agents.
+- **[EMAP](https://github.com/noah-ing/EMAP)** — Artifact-grounded experiments on
+  multi-agent architectures under hard token budgets.
 
-## Principles
+## Engineering principles
 
 `Least privilege` · `Explicit authorization` · `Reproducible evaluation` ·
 `Auditable interfaces`
