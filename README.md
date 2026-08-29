@@ -7,6 +7,10 @@ I contribute to open-source security and infrastructure work.
 
 ## Selected work
 
+- **[Attested Capability Broker](https://github.com/noah-ing/attested-capability-broker)** — Independent reference experiment
+  using released AgenTrust components to bind TPM-appraised platform state and
+  authenticated agent identity to a short-lived, minimal-scope MCP capability with
+  at-most-once redemption.
 - **[GoldKey Guard](https://github.com/noah-ing/goldkey)** — Policy-bound
   authorization receipts and a local, fail-closed enforcement path for privileged
   agent actions.
