@@ -14,6 +14,9 @@ U.S. person · no sponsorship required · TPM / TEE / MCP policy · Python + Typ
   implementation of resource audience enforcement, action binding, explicit
   delegation attenuation, and at-most-once redemption, with reproducible Compose
   procedures.
+- **[confined-tool-execution](https://github.com/noah-ing/confined-tool-execution)** —
+  Linux tool-process confinement: workspace and audience from the
+  capability; denied open/connect emit a record. Not a container runtime.
 - **[GoldKey Guard](https://github.com/noah-ing/goldkey)** — Policy-bound
   authorization receipts and a local, fail-closed enforcement path for privileged
   agent actions.
