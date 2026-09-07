@@ -10,6 +10,10 @@ U.S. person · no sponsorship required · TPM / TEE / MCP policy · Python + Typ
   using released AgenTrust components to bind TPM-appraised platform state and
   authenticated agent identity to a short-lived, minimal-scope MCP capability with
   at-most-once redemption.
+- **[Resource-Bound Authorization](https://github.com/noah-ing/resource-bound-authorization)** — Independent reference
+  implementation of resource audience enforcement, action binding, explicit
+  delegation attenuation, and at-most-once redemption, with reproducible Compose
+  procedures.
 - **[GoldKey Guard](https://github.com/noah-ing/goldkey)** — Policy-bound
   authorization receipts and a local, fail-closed enforcement path for privileged
   agent actions.
