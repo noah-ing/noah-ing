@@ -39,6 +39,8 @@ U.S. person · no sponsorship required · TPM / TEE / MCP policy · Python + Typ
   Improved LangGraph callback interoperability and added released-framework coverage.
 - **[Reef](https://github.com/Human-Agent-Society/reef/pull/285)** — Improved
   release-read responsiveness during long-running evolution.
+- **[Tailscale](https://github.com/tailscale/tailscale/pull/21133)** — Made
+  map-poll retry waits cancellable so pause, restart, and shutdown stay responsive.
 
 ## Engineering principles
 
